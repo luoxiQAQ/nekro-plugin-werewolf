@@ -36,7 +36,7 @@ from .utils import set_command_prefix
 
 plugin = NekroPlugin(
     name="狼人杀",
-    module_name="werewolf",
+    module_name="nekro_plugin_werewolf",
     description="群聊狼人杀游戏：创建房间拉人开局，夜晚私聊行动，白天发言投票，支持 AI 玩家补位与 AI 复盘",
     author="miao_luoxi",
     version="1.0.0",
